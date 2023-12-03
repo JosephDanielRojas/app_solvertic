@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "913807132839",
+    "firebase_url": "https://mis-horarios-61975-default-rtdb.firebaseio.com",
+    "project_id": "mis-horarios-61975",
+    "storage_bucket": "mis-horarios-61975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913807132839:android:d141d8fdbceee37415f382",
+        "android_client_info": {
+          "package_name": "com.example.app_solvertic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMyhbuTGX3kLGJu024cioO4RJ75UCAfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

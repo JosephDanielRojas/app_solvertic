@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC7vYxmGOodACDxtJtkBkXKl9cyZG0Lufc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>913807132839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appSolvertic</string>
+	<key>PROJECT_ID</key>
+	<string>mis-horarios-61975</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mis-horarios-61975.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:913807132839:ios:1ed5b84f12710bbb15f382</string>
+	<key>DATABASE_URL</key>
+	<string>https://mis-horarios-61975-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
