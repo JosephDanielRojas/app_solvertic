@@ -1,4 +1,4 @@
-import 'package:app_solvertic/homePageTutor.dart';
+import 'package:app_solvertic/models/teacherHomePage.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -56,7 +56,7 @@ class _LoginPageState extends State<LoginPage> {
                   Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => HomePageTutor(),
+                      builder: (context) => TeacherHomePage(),
                     ),
                   );
                 } catch (e) {
