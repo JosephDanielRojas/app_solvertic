@@ -68,7 +68,7 @@ class Anotaciones extends StatelessWidget {
                                 );
                               }).toList(),
                               onChanged: (value) {
-                                print(value);
+                                Text('$value');
                               },
                               style: const TextStyle(color: Colors.black),
                             ),
